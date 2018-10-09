@@ -1,0 +1,6 @@
+Looking for someone to set up Stripe for my web application.
+The application is PHP based, coded by myself.
+based on the usage of the application by the business.
+Project Stage:Fully Specified.
+Hello
+Hi,there!
